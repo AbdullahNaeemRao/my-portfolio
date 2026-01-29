@@ -1,3 +1,4 @@
+// Fixing the portfolio
 "use client";
 
 import Image from "next/image";
